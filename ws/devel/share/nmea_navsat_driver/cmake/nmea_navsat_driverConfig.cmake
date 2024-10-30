@@ -1,0 +1,1 @@
+/home/xlqmu/ws/devel/.private/nmea_navsat_driver/share/nmea_navsat_driver/cmake/nmea_navsat_driverConfig.cmake

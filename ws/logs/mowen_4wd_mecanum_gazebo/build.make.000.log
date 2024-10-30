@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target mowen_ros_force_based_move[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/mowen_ros_force_based_move.dir/src/mowen_ros_force_based_move.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/xlqmu/ws/devel/.private/mowen_4wd_mecanum_gazebo/lib/libmowen_ros_force_based_move.so[0m
+[100%] Built target mowen_ros_force_based_move

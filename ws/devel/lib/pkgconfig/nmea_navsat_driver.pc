@@ -1,0 +1,1 @@
+/home/xlqmu/ws/devel/.private/nmea_navsat_driver/lib/pkgconfig/nmea_navsat_driver.pc

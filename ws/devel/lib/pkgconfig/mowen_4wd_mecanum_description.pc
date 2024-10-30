@@ -1,0 +1,1 @@
+/home/xlqmu/ws/devel/.private/mowen_4wd_mecanum_description/lib/pkgconfig/mowen_4wd_mecanum_description.pc

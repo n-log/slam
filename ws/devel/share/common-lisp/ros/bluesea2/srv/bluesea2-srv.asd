@@ -1,0 +1,1 @@
+/home/xlqmu/ws/devel/.private/bluesea2/share/common-lisp/ros/bluesea2/srv/bluesea2-srv.asd

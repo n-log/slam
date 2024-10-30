@@ -1,0 +1,1 @@
+/home/xlqmu/ws/devel/.private/nav/share/gennodejs/ros/nav/msg/ROSdata.js

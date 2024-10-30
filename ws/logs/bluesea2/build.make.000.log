@@ -1,0 +1,109 @@
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target _bluesea2_generate_messages_check_deps_DefenceZone[0m
+[  0%] Built target _bluesea2_generate_messages_check_deps_DefenceZone
+[35m[1mScanning dependencies of target _bluesea2_generate_messages_check_deps_Control[0m
+[  0%] Built target _bluesea2_generate_messages_check_deps_Control
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target bluesea2_gencfg[0m
+[  4%] [34m[1mGenerating dynamic reconfigure files from cfg/DynParams.cfg: /home/xlqmu/ws/devel/.private/bluesea2/include/bluesea2/DynParamsConfig.h /home/xlqmu/ws/devel/.private/bluesea2/lib/python3/dist-packages/bluesea2/cfg/DynParamsConfig.py[0m
+Generating reconfiguration files for DynParams in bluesea2
+Wrote header file in /home/xlqmu/ws/devel/.private/bluesea2/include/bluesea2/DynParamsConfig.h
+[  4%] Built target bluesea2_gencfg
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  4%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  4%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  4%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[  4%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  4%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  4%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  4%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  4%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  4%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  4%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[  4%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  4%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  4%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  4%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  4%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  4%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  4%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  4%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target bluesea2_generate_messages_nodejs[0m
+[  8%] [34m[1mGenerating Javascript code from bluesea2/Control.srv[0m
+[ 13%] [34m[1mGenerating Javascript code from bluesea2/DefenceZone.srv[0m
+[35m[1mScanning dependencies of target bluesea2_generate_messages_py[0m
+[ 13%] Built target bluesea2_generate_messages_nodejs
+[ 17%] [34m[1mGenerating Python code from SRV bluesea2/Control[0m
+[35m[1mScanning dependencies of target bluesea2_generate_messages_lisp[0m
+[ 21%] [34m[1mGenerating Lisp code from bluesea2/Control.srv[0m
+[ 26%] [34m[1mGenerating Lisp code from bluesea2/DefenceZone.srv[0m
+[ 26%] Built target bluesea2_generate_messages_lisp
+[35m[1mScanning dependencies of target bluesea2_generate_messages_eus[0m
+[ 30%] [34m[1mGenerating EusLisp code from bluesea2/Control.srv[0m
+[ 34%] [34m[1mGenerating Python code from SRV bluesea2/DefenceZone[0m
+[ 39%] [34m[1mGenerating EusLisp code from bluesea2/DefenceZone.srv[0m
+[ 43%] [34m[1mGenerating EusLisp manifest code for bluesea2[0m
+[ 47%] [34m[1mGenerating Python srv __init__.py for bluesea2[0m
+[ 47%] Built target bluesea2_generate_messages_py
+[35m[1mScanning dependencies of target bluesea2_generate_messages_cpp[0m
+[ 52%] [34m[1mGenerating C++ code from bluesea2/Control.srv[0m
+[ 56%] [34m[1mGenerating C++ code from bluesea2/DefenceZone.srv[0m
+[ 56%] Built target bluesea2_generate_messages_cpp
+[ 56%] Built target bluesea2_generate_messages_eus
+[35m[1mScanning dependencies of target bluesea2_node[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/bluesea2_node.dir/src/bluesea_node.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/bluesea2_node.dir/src/uart_reader.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/bluesea2_node.dir/src/udp_reader.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/bluesea2_node.dir/src/tcp_reader.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/bluesea2_node.dir/src/parser.cpp.o[0m
+[ 82%] [32mBuilding C object CMakeFiles/bluesea2_node.dir/src/uart.c.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/bluesea2_node.dir/src/data_process.cpp.o[0m
+[35m[1mScanning dependencies of target bluesea2_node_client[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/bluesea2_node_client.dir/src/bluesea_node_client.cpp.o[0m
+[35m[1mScanning dependencies of target bluesea2_generate_messages[0m
+[ 91%] Built target bluesea2_generate_messages
+[ 95%] [32m[1mLinking CXX executable /home/xlqmu/ws/devel/.private/bluesea2/lib/bluesea2/bluesea2_node_client[0m
+[ 95%] Built target bluesea2_node_client
+[100%] [32m[1mLinking CXX executable /home/xlqmu/ws/devel/.private/bluesea2/lib/bluesea2/bluesea2_node[0m
+[100%] Built target bluesea2_node

@@ -1,0 +1,4 @@
+Symlinking /home/xlqmu/ws/devel/lib/teleop_keyboard/teleop_keyboard
+Symlinking /home/xlqmu/ws/devel/lib/pkgconfig/teleop_keyboard.pc
+Symlinking /home/xlqmu/ws/devel/share/teleop_keyboard/cmake/teleop_keyboardConfig.cmake
+Symlinking /home/xlqmu/ws/devel/share/teleop_keyboard/cmake/teleop_keyboardConfig-version.cmake

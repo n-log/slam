@@ -1,0 +1,5 @@
+Symlinking /home/xlqmu/ws/devel/lib/delta_lidar/delta_lidar_node_client
+Symlinking /home/xlqmu/ws/devel/lib/delta_lidar/delta_lidar_node
+Symlinking /home/xlqmu/ws/devel/lib/pkgconfig/delta_lidar.pc
+Symlinking /home/xlqmu/ws/devel/share/delta_lidar/cmake/delta_lidarConfig-version.cmake
+Symlinking /home/xlqmu/ws/devel/share/delta_lidar/cmake/delta_lidarConfig.cmake

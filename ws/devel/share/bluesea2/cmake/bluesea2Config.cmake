@@ -1,0 +1,1 @@
+/home/xlqmu/ws/devel/.private/bluesea2/share/bluesea2/cmake/bluesea2Config.cmake

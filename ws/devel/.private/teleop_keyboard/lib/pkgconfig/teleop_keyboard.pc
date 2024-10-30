@@ -1,0 +1,8 @@
+prefix=/home/xlqmu/ws/devel/.private/teleop_keyboard
+
+Name: teleop_keyboard
+Description: Description of teleop_keyboard
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

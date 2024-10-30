@@ -1,0 +1,4 @@
+<launch>
+    <arg name="filename" value="$(find fp_sim)/maps/sim20241030" />
+    <node name="map_save" pkg="map_server" type="map_saver" args="-f $(arg filename)" />
+</launch>

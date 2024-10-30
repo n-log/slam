@@ -1,0 +1,1 @@
+/home/xlqmu/ws/devel/.private/nav/share/roseus/ros/nav/msg/ROSdata.l

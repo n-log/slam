@@ -1,0 +1,8 @@
+prefix=/home/xlqmu/ws/devel/.private/fp_sim
+
+Name: fp_sim
+Description: Description of fp_sim
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

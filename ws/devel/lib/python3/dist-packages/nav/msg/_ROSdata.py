@@ -1,0 +1,1 @@
+/home/xlqmu/ws/devel/.private/nav/lib/python3/dist-packages/nav/msg/_ROSdata.py

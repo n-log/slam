@@ -1,0 +1,1 @@
+/home/xlqmu/ws/devel/.private/bluesea2/share/gennodejs/ros/bluesea2/_index.js

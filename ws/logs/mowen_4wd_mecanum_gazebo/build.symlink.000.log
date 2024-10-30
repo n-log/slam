@@ -1,0 +1,4 @@
+Symlinking /home/xlqmu/ws/devel/lib/libmowen_ros_force_based_move.so
+Symlinking /home/xlqmu/ws/devel/lib/pkgconfig/mowen_4wd_mecanum_gazebo.pc
+Symlinking /home/xlqmu/ws/devel/share/mowen_4wd_mecanum_gazebo/cmake/mowen_4wd_mecanum_gazeboConfig-version.cmake
+Symlinking /home/xlqmu/ws/devel/share/mowen_4wd_mecanum_gazebo/cmake/mowen_4wd_mecanum_gazeboConfig.cmake

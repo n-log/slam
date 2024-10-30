@@ -1,0 +1,1 @@
+/home/xlqmu/ws/devel/.private/nav/share/common-lisp/ros/nav/msg/_package_ROSdata.lisp

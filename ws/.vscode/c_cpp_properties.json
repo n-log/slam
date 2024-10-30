@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/xlqmu/ws/devel/include/**",
+        "/home/xlqmu/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/xlqmu/catkin_ws/src/ME5413_Final_Project/src/costmap_prohibition_layer-kinetic-devel/include/**",
+        "/home/xlqmu/catkin_ws/src/ME5413_Final_Project/src/interactive_tools/include/**",
+        "/home/xlqmu/catkin_ws/src/learning_service/include/**",
+        "/home/xlqmu/catkin_ws/src/learning_tf/include/**",
+        "/home/xlqmu/catkin_ws/src/learning_topic/include/**",
+        "/home/xlqmu/catkin_ws/src/ME5413_Final_Project/src/me5413_world/include/**",
+        "/home/xlqmu/ws/src/RMUC24_simulation/mowen_4wd_mecanum_gazebo/include/**",
+        "/home/xlqmu/ws/src/RMUC24_real/sensor_interface/pointcloud_to_laserscan/include/**",
+        "/home/xlqmu/catkin_ws/src/waterplus_map_tools/include/**",
+        "/home/xlqmu/catkin_ws/src/wpb_home/wpb_home_bringup/include/**",
+        "/home/xlqmu/catkin_ws/src/wpb_home/wpb_home_tutorials/include/**",
+        "/home/xlqmu/catkin_ws/src/wpb_home/wpbh_local_planner/include/**",
+        "/home/xlqmu/catkin_ws/src/wpr_simulation/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

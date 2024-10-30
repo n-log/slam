@@ -1,0 +1,8 @@
+prefix=/home/xlqmu/ws/devel/.private/nav
+
+Name: nav
+Description: Description of nav
+Version: 0.0.0
+Cflags: -I/home/xlqmu/ws/devel/.private/nav/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+Symlinking /home/xlqmu/ws/devel/lib/pkgconfig/nmea_navsat_driver.pc
+Symlinking /home/xlqmu/ws/devel/lib/python3/dist-packages/libnmea_navsat_driver/__init__.py
+Symlinking /home/xlqmu/ws/devel/share/nmea_navsat_driver/cmake/nmea_navsat_driverConfig.cmake
+Symlinking /home/xlqmu/ws/devel/share/nmea_navsat_driver/cmake/nmea_navsat_driverConfig-version.cmake

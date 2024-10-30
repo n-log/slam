@@ -1,0 +1,1 @@
+/home/xlqmu/ws/devel/.private/bluesea2/lib/pkgconfig/bluesea2.pc
